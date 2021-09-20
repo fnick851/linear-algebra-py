@@ -1,3 +1,1 @@
-# Linear Algebra in Python
-
-Learn math with Python.
+Learn linear algebra with Python.
